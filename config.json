@@ -1,0 +1,76 @@
+{
+  "child": { "name": "Aradhya Jha", "birthdate": "2022-02-26" },
+  "hosts": ["Shivdeep Jha", "Parul (Khushbu) Jha"],
+  "party": {
+    "datetime": "2027-02-26T17:00:00+05:30",
+    "durationMinutes": 210,
+    "timeZone": "Asia/Kolkata",
+    "venue": "At our residence",
+    "address": "12 Civil Lines, Agra, Uttar Pradesh 282002",
+    "lat": 27.1767,
+    "lng": 78.0081,
+    "mapsLink": ""
+  },
+  "rsvp": { "name": "Shivdeep Jha", "phone": "919876543210", "by": "2026-12-05" },
+  "defaultCountryCode": "91",
+  "music": { "youtube": "https://www.youtube.com/results?search_query=happy+birthday+song+for+kids" },
+  "heroPhoto": "photos/photo1.jpg",
+  "memories": [
+    { "src": "photos/photo1.jpg", "caption": "Our little star" },
+    { "src": "photos/photo2.jpg", "caption": "1 year" },
+    { "src": "photos/photo3.jpg", "caption": "2 years" },
+    { "src": "photos/photo4.jpg", "caption": "Garden giggles" },
+    { "src": "photos/photo5.jpg", "caption": "Now 5!" }
+  ],
+  "schedule": [
+    {
+      "title": "Welcome & Fun Games",
+      "time": "5:00 PM",
+      "place": "Garden Lawn",
+      "dressCode": "Colourful & comfy",
+      "colorName": "pink",
+      "colorHex": "#ff9ec0",
+      "bg": ["#ffd3e2", "#fff0f4"],
+      "scene": "🎈🧸",
+      "icon": "🎈"
+    },
+    {
+      "title": "Cake Cutting",
+      "time": "6:30 PM",
+      "place": "Stage",
+      "dressCode": "Party best",
+      "colorName": "gold",
+      "colorHex": "#ffd166",
+      "bg": ["#ffe7b8", "#fff6e6"],
+      "scene": "🎂🕯️",
+      "icon": "🎂"
+    },
+    {
+      "title": "Snacks & Dinner",
+      "time": "7:00 PM",
+      "place": "Dining Hall",
+      "dressCode": "Comfy casuals",
+      "colorName": "mint",
+      "colorHex": "#8fd3b0",
+      "bg": ["#d4f0e0", "#f6fff9"],
+      "scene": "🍽️💡",
+      "icon": "🍕"
+    },
+    {
+      "title": "Dance & Return Gifts",
+      "time": "8:00 PM",
+      "place": "Dance Floor",
+      "dressCode": "Dancing shoes",
+      "colorName": "sky blue",
+      "colorHex": "#7ec8ff",
+      "bg": ["#cfe9ff", "#f1f8ff"],
+      "scene": "🪩🎶",
+      "icon": "💃"
+    }
+  ],
+  "guests": {
+    "7983021214": "Khushbu",
+    "7607954414": { "name": "Neha & Kishun Sharma", "salutation": "Dear Neha & Kishun (Saparivar)" },
+    "9812345678": "Neha Verma"
+  }
+}
