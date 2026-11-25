@@ -69,8 +69,13 @@
     }
   ],
   "guests": {
-    "7983021214": "Khushbu",
+    "7983021214": { "name": "Khushbu", "salutation": "Dear Khushbu," },
     "7607954414": { "name": "Neha & Kishun Sharma", "salutation": "Dear Neha & Kishun (Saparivar)" },
-    "9812345678": "Neha Verma"
+    "9812345678": { "name": "Neha Verma", "salutation": "Dear Neha Verma," },
+    "8006842420": { "name": "DC Roy Sir (Deep Chandra)", "salutation": "Dear DC Sir," },
+    "6398785077": { "name": "DC Roy Sir (Deep Chandra)", "salutation": "Dear DC Sir," },
+    "9149274266": { "name": "Tanu Mam & Anshika Mam", "salutation": "Dear Tanu Mam & Anshika Mam," },
+    "6398100592": { "name": "Priyanshi Gupta", "salutation": "Dear Priyanshi," },
+    "8853021214": { "name": "Dilip and Sunita Vishwakarma", "salutation": "Dear Dilip and Sunita (Saparivar)," }
   }
 }
